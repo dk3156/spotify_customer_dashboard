@@ -1,0 +1,33 @@
+content,kind,premium,free
+listening_content,music,61.5,82.8
+listening_content,podcast,38.5,17.2
+usage_period,Less than 6 months,7.3,19.8
+usage_period,6 months to 1 year,28.1,21.7
+usage_period,1 year to 2 years,32.3,25.9
+usage_period,More than 2 years,32.3,32.5
+sub_willingness,Yes,75.0,26.9
+sub_willingness,No,25.0,73.1
+preferred_plan,Individual Plan,37.5,13.9
+preferred_plan,Family Plan,17.7,5.2
+preferred_plan,Student Plan,9.4,20.0
+preferred_plan,Duo Plan,27.1,13.7
+preferred_plan,None,8.3,47.2
+recc_rating,5,3.1,2.6
+recc_rating,4,27.1,7.1
+recc_rating,3,35.4,36.8
+recc_rating,2,20.8,36.3
+recc_rating,1,13.5,17.2
+music_genre,classical,26.0,14.6
+music_genre,Rock,2.1,0.5
+music_genre,Rap,19.8,8.5
+music_genre,Electronic/Dance,4.2,2.8
+music_genre,Pop,17.7,16.0
+music_genre,Melody,29.2,54.5
+music_genre,All,1.0,1.2
+music_genre,"Classical & melody, dance",0.0,0.5
+music_genre,Old songs,0.0,0.2
+music_genre,Kpop,0.0,0.9
+music_genre,trending songs random,0.0,0.2
+time_slot,Night,45.8,63.2
+time_slot,Morning,16.7,17.7
+time_slot,Afternoon,37.5,19.1
